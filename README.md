@@ -1,5 +1,5 @@
 # Data-Visualisation-
-Project on data visualisation via Python and Tableau
+Project on data visualisation via Python and Tableau. I have applied data visualization techniques that I have learned throughout the module to undertake this analysis. You may use any kind of data visualizations that you deem appropriate. However, I have prefered to demonstrate application of UMAP dimensionality reduction in the analysis of both datasets. All visualizations are relevant to the task at hand.
 
 In this work, I assume that I am a world class data analysts works at an automotive insurance company. The data science department has tasked me with visual analysis of two datasets.
 
